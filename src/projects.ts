@@ -4,7 +4,6 @@ export type Project = { id: string; name: string; archived: boolean };
 
 export function createProject(name: string): Project {
   const project = { id: crypto.randomUUID(), name, archived: false };
-  posthog.capture('project_created', { project_id: project.id });
   return project;
 }
 
