@@ -1,0 +1,7 @@
+{
+  "name": "skene-qa-tracked",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Synthetic instrumented app for Skene QA runs",
+  "dependencies": { "posthog-js": "^1.0.0" }
+}
