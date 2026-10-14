@@ -7,3 +7,4 @@ tracking-parity corpus base, so the tracking check's results are known in advanc
 
 No real keys or data. Do not use it for anything else.
 L4-P1 first (to be superseded) 2026-10-14T10:33:40Z
+L4-P1 second 2026-10-14T10:33:46Z
