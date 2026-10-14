@@ -6,3 +6,8 @@ events, an `identify` call, and an `invoices.paid_at` column. The contents match
 tracking-parity corpus base, so the tracking check's results are known in advance.
 
 No real keys or data. Do not use it for anything else.
+L4-P1 first (to be superseded) 2026-10-14T10:33:40Z
+L4-P1 second 2026-10-14T10:33:46Z
+L4-P1 rotation probe 2026-10-14T13:31:47Z
+L4-P1 rotation probe 2026-10-14T13:52:11Z
+L4-P1 rotation probe 2026-10-14T15:15:28Z
