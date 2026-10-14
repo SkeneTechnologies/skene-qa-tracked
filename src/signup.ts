@@ -4,7 +4,6 @@ import { identifyMember } from './analytics';
 export async function completeSignup(member: { id: string; email: string }, plan: string) {
   const saved = await saveMember(member, plan);
   identifyMember(member);
-  posthog.capture('signup_completed', { plan, source: 'web' });
   return saved;
 }
 
